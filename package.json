@@ -1,0 +1,13 @@
+{
+  "name": "http-test-server",
+  "version": "0.0.1",
+  "description": "Small Http/https/http2 server for testing purposes",
+  "main": "src/index.js",
+  "repository": "https://github.com/mkikets99/http-test-server",
+  "author": "Mykola Kikets <mykola.kikets@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node ."
+  }
+}

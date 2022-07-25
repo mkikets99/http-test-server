@@ -1,0 +1,19 @@
+{
+    "http":{
+        "port":4350
+    },
+    "https":{
+        "port":4351,
+        "cert":{
+            "file":"certs/localhost.crt",
+            "key":"certs/localhost.key"
+        }
+    },
+    "http2":{
+        "port":4352,
+        "cert":{
+            "file":"certs/localhost2.crt",
+            "key":"certs/localhost2.key"
+        }
+    }
+}
